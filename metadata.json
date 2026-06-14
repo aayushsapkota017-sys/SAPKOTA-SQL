@@ -1,0 +1,6 @@
+{
+  "name": "SQLite Offline Studio",
+  "description": "An offline-first, client-side SQLite database studio and terminal emulator featuring syntax-highlighted SQL editors, interactive tables, terminal prompts, and local file system access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
